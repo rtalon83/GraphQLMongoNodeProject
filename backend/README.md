@@ -29,21 +29,6 @@ node index.js
 [Graphi QL](http://localhost:5000/graphql)
 
 
-CRUD Queries
-- users
+### Queries
 
-```json
-{
-  users {
-    name
-    email
-    password
-  }
-}
-```
-
-
-
-
-
-
+You can get all queries in the attached **query.txt**
